@@ -6,6 +6,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/YatriRPatel/DSA-Java/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
@@ -14,6 +15,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/YatriRPatel/DSA-Java/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -27,4 +29,12 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/YatriRPatel/DSA-Java/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
