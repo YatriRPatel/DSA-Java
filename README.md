@@ -65,4 +65,12 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0053-maximum-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
