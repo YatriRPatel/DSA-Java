@@ -25,6 +25,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0209-minimum-size-subarray-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/YatriRPatel/DSA-Java/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0003-longest-substring-without-repeating-characters](https://github.com/YatriRPatel/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/YatriRPatel/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -77,6 +79,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0005-longest-palindromic-substring](https://github.com/YatriRPatel/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/YatriRPatel/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/YatriRPatel/DSA-Java/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 ## String
@@ -87,6 +90,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0125-valid-palindrome](https://github.com/YatriRPatel/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/YatriRPatel/DSA-Java/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
