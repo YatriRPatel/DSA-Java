@@ -11,6 +11,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0053-maximum-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/YatriRPatel/DSA-Java/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/YatriRPatel/DSA-Java/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/YatriRPatel/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -89,6 +90,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YatriRPatel/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/YatriRPatel/DSA-Java/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/YatriRPatel/DSA-Java/tree/master/0647-palindromic-substrings) |
@@ -116,6 +118,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/YatriRPatel/DSA-Java/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0189-rotate-array) |
 ## Newton's Method
 |  |
 | ------- |
