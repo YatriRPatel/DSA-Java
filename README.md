@@ -7,6 +7,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YatriRPatel/DSA-Java/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -49,6 +50,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YatriRPatel/DSA-Java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/YatriRPatel/DSA-Java/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
