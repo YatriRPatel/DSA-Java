@@ -17,6 +17,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0239-sliding-window-maximum](https://github.com/YatriRPatel/DSA-Java/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/YatriRPatel/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/YatriRPatel/DSA-Java/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/YatriRPatel/DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/1314-matrix-block-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -57,6 +58,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0162-find-peak-element](https://github.com/YatriRPatel/DSA-Java/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/YatriRPatel/DSA-Java/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/YatriRPatel/DSA-Java/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
