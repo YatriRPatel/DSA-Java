@@ -10,6 +10,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YatriRPatel/DSA-Java/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/YatriRPatel/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/YatriRPatel/DSA-Java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0189-rotate-array) |
@@ -55,6 +56,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YatriRPatel/DSA-Java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/YatriRPatel/DSA-Java/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/YatriRPatel/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/YatriRPatel/DSA-Java/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
@@ -77,6 +79,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/YatriRPatel/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [1314-matrix-block-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/1314-matrix-block-sum) |
 ## Divide and Conquer
