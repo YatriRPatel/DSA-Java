@@ -23,6 +23,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0918-maximum-sum-circular-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/1314-matrix-block-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/YatriRPatel/DSA-Java/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Queue
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0240-search-a-2d-matrix-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/YatriRPatel/DSA-Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/YatriRPatel/DSA-Java/tree/master/0875-koko-eating-bananas) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/YatriRPatel/DSA-Java/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Prefix Sum
 |  |
 | ------- |
