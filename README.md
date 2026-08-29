@@ -24,6 +24,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0918-maximum-sum-circular-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YatriRPatel/DSA-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1314-matrix-block-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/1314-matrix-block-sum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YatriRPatel/DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/YatriRPatel/DSA-Java/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/YatriRPatel/DSA-Java/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -69,6 +70,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0704-binary-search](https://github.com/YatriRPatel/DSA-Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/YatriRPatel/DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YatriRPatel/DSA-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YatriRPatel/DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/YatriRPatel/DSA-Java/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/YatriRPatel/DSA-Java/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Prefix Sum
