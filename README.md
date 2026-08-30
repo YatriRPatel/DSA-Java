@@ -18,6 +18,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0239-sliding-window-maximum](https://github.com/YatriRPatel/DSA-Java/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/YatriRPatel/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/YatriRPatel/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/YatriRPatel/DSA-Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/YatriRPatel/DSA-Java/tree/master/0875-koko-eating-bananas) |
@@ -85,6 +86,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YatriRPatel/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/YatriRPatel/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/YatriRPatel/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0567-permutation-in-string) |
 ## Matrix
@@ -151,4 +153,12 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/YatriRPatel/DSA-Java/tree/master/1552-magnetic-force-between-two-balls) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/YatriRPatel/DSA-Java/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/YatriRPatel/DSA-Java/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
