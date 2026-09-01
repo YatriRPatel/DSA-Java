@@ -22,6 +22,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0503-next-greater-element-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/YatriRPatel/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/YatriRPatel/DSA-Java/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/YatriRPatel/DSA-Java/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/YatriRPatel/DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YatriRPatel/DSA-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -159,9 +160,11 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | ------- |
 | [0496-next-greater-element-i](https://github.com/YatriRPatel/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/YatriRPatel/DSA-Java/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/YatriRPatel/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/YatriRPatel/DSA-Java/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
