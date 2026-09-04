@@ -11,6 +11,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0035-search-insert-position](https://github.com/YatriRPatel/DSA-Java/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/YatriRPatel/DSA-Java/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/YatriRPatel/DSA-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/YatriRPatel/DSA-Java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0189-rotate-array) |
@@ -57,6 +58,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/YatriRPatel/DSA-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/YatriRPatel/DSA-Java/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
 |  |
@@ -159,6 +161,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/YatriRPatel/DSA-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/YatriRPatel/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/YatriRPatel/DSA-Java/tree/master/0735-asteroid-collision) |
@@ -167,6 +170,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/YatriRPatel/DSA-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/YatriRPatel/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/YatriRPatel/DSA-Java/tree/master/0739-daily-temperatures) |
