@@ -135,6 +135,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0005-longest-palindromic-substring](https://github.com/YatriRPatel/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/YatriRPatel/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/YatriRPatel/DSA-Java/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0567-permutation-in-string) |
@@ -155,6 +156,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0069-sqrtx](https://github.com/YatriRPatel/DSA-Java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/YatriRPatel/DSA-Java/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0227-basic-calculator-ii) |
 ## Newton's Method
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0084-largest-rectangle-in-histogram](https://github.com/YatriRPatel/DSA-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/YatriRPatel/DSA-Java/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/YatriRPatel/DSA-Java/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/YatriRPatel/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/YatriRPatel/DSA-Java/tree/master/0735-asteroid-collision) |
