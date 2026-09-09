@@ -138,6 +138,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0224-basic-calculator](https://github.com/YatriRPatel/DSA-Java/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/YatriRPatel/DSA-Java/tree/master/0647-palindromic-substrings) |
@@ -175,6 +176,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0150-evaluate-reverse-polish-notation](https://github.com/YatriRPatel/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/YatriRPatel/DSA-Java/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/YatriRPatel/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/YatriRPatel/DSA-Java/tree/master/0735-asteroid-collision) |
@@ -205,4 +207,5 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/YatriRPatel/DSA-Java/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
