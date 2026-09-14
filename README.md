@@ -135,6 +135,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YatriRPatel/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/YatriRPatel/DSA-Java/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/YatriRPatel/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/YatriRPatel/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/YatriRPatel/DSA-Java/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0227-basic-calculator-ii) |
@@ -176,6 +177,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YatriRPatel/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/YatriRPatel/DSA-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/YatriRPatel/DSA-Java/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YatriRPatel/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -219,4 +221,8 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | ------- |
 | [0224-basic-calculator](https://github.com/YatriRPatel/DSA-Java/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0394-decode-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YatriRPatel/DSA-Java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
