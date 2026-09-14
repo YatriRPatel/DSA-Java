@@ -187,6 +187,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0084-largest-rectangle-in-histogram](https://github.com/YatriRPatel/DSA-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/YatriRPatel/DSA-Java/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YatriRPatel/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/YatriRPatel/DSA-Java/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/YatriRPatel/DSA-Java/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0394-decode-string) |
@@ -213,6 +214,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/YatriRPatel/DSA-Java/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/YatriRPatel/DSA-Java/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
