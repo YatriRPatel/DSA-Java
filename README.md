@@ -146,6 +146,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0647-palindromic-substrings](https://github.com/YatriRPatel/DSA-Java/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/YatriRPatel/DSA-Java/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/YatriRPatel/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/YatriRPatel/DSA-Java/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/YatriRPatel/DSA-Java/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -154,6 +155,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/YatriRPatel/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Manacher
 |  |
 | ------- |
@@ -190,6 +192,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0739-daily-temperatures](https://github.com/YatriRPatel/DSA-Java/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/YatriRPatel/DSA-Java/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/YatriRPatel/DSA-Java/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/YatriRPatel/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/YatriRPatel/DSA-Java/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/YatriRPatel/DSA-Java/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -225,4 +228,5 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YatriRPatel/DSA-Java/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/YatriRPatel/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
