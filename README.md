@@ -38,6 +38,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/YatriRPatel/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/YatriRPatel/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/YatriRPatel/DSA-Java/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
@@ -190,6 +191,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0150-evaluate-reverse-polish-notation](https://github.com/YatriRPatel/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/YatriRPatel/DSA-Java/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/YatriRPatel/DSA-Java/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/YatriRPatel/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/YatriRPatel/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0394-decode-string) |
@@ -217,6 +219,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/YatriRPatel/DSA-Java/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/YatriRPatel/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/YatriRPatel/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/YatriRPatel/DSA-Java/tree/master/0901-online-stock-span) |
 ## Data Stream
