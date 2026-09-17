@@ -146,6 +146,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0227-basic-calculator-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/YatriRPatel/DSA-Java/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/YatriRPatel/DSA-Java/tree/master/0647-palindromic-substrings) |
@@ -159,6 +160,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/YatriRPatel/DSA-Java/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YatriRPatel/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -196,6 +198,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0227-basic-calculator-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/YatriRPatel/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/YatriRPatel/DSA-Java/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/YatriRPatel/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/YatriRPatel/DSA-Java/tree/master/0735-asteroid-collision) |
@@ -213,6 +216,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/YatriRPatel/DSA-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/YatriRPatel/DSA-Java/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/YatriRPatel/DSA-Java/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/YatriRPatel/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/YatriRPatel/DSA-Java/tree/master/0739-daily-temperatures) |
