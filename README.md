@@ -156,6 +156,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0856-score-of-parentheses](https://github.com/YatriRPatel/DSA-Java/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YatriRPatel/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/YatriRPatel/DSA-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/YatriRPatel/DSA-Java/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/YatriRPatel/DSA-Java/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Greedy
@@ -166,6 +167,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0410-split-array-largest-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YatriRPatel/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/YatriRPatel/DSA-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Manacher
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0901-online-stock-span](https://github.com/YatriRPatel/DSA-Java/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YatriRPatel/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/YatriRPatel/DSA-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/YatriRPatel/DSA-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/YatriRPatel/DSA-Java/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/YatriRPatel/DSA-Java/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -225,6 +228,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0503-next-greater-element-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/YatriRPatel/DSA-Java/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/YatriRPatel/DSA-Java/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/YatriRPatel/DSA-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
 | ------- |
