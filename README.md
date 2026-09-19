@@ -157,6 +157,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YatriRPatel/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YatriRPatel/DSA-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/YatriRPatel/DSA-Java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/YatriRPatel/DSA-Java/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/YatriRPatel/DSA-Java/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Greedy
@@ -214,6 +215,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YatriRPatel/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YatriRPatel/DSA-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/YatriRPatel/DSA-Java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/YatriRPatel/DSA-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/YatriRPatel/DSA-Java/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/YatriRPatel/DSA-Java/tree/master/2696-minimum-string-length-after-removing-substrings) |
