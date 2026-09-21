@@ -120,6 +120,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0053-maximum-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/YatriRPatel/DSA-Java/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/YatriRPatel/DSA-Java/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/YatriRPatel/DSA-Java/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -182,6 +183,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0189-rotate-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/YatriRPatel/DSA-Java/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0227-basic-calculator-ii) |
+| [0509-fibonacci-number](https://github.com/YatriRPatel/DSA-Java/tree/master/0509-fibonacci-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -256,6 +258,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0050-powx-n](https://github.com/YatriRPatel/DSA-Java/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/YatriRPatel/DSA-Java/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/YatriRPatel/DSA-Java/tree/master/0509-fibonacci-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -263,4 +266,8 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0032-longest-valid-parentheses](https://github.com/YatriRPatel/DSA-Java/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/YatriRPatel/DSA-Java/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YatriRPatel/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/YatriRPatel/DSA-Java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
