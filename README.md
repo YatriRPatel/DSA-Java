@@ -118,6 +118,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0005-longest-palindromic-substring](https://github.com/YatriRPatel/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/YatriRPatel/DSA-Java/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/YatriRPatel/DSA-Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/YatriRPatel/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/YatriRPatel/DSA-Java/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0410-split-array-largest-sum) |
@@ -179,6 +180,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/YatriRPatel/DSA-Java/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/YatriRPatel/DSA-Java/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/YatriRPatel/DSA-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/YatriRPatel/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YatriRPatel/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -273,4 +275,8 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | ------- |
 | [0070-climbing-stairs](https://github.com/YatriRPatel/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/YatriRPatel/DSA-Java/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/YatriRPatel/DSA-Java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
