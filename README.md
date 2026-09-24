@@ -17,6 +17,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/YatriRPatel/DSA-Java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/YatriRPatel/DSA-Java/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/YatriRPatel/DSA-Java/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
@@ -121,6 +122,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0062-unique-paths](https://github.com/YatriRPatel/DSA-Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/YatriRPatel/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/YatriRPatel/DSA-Java/tree/master/0085-maximal-rectangle) |
+| [0198-house-robber](https://github.com/YatriRPatel/DSA-Java/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/YatriRPatel/DSA-Java/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/YatriRPatel/DSA-Java/tree/master/0647-palindromic-substrings) |
