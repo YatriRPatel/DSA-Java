@@ -262,6 +262,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/YatriRPatel/DSA-Java/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/YatriRPatel/DSA-Java/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/YatriRPatel/DSA-Java/tree/master/0509-fibonacci-number) |
@@ -281,4 +282,8 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/YatriRPatel/DSA-Java/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
