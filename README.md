@@ -11,6 +11,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0035-search-insert-position](https://github.com/YatriRPatel/DSA-Java/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/YatriRPatel/DSA-Java/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/YatriRPatel/DSA-Java/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/YatriRPatel/DSA-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/YatriRPatel/DSA-Java/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YatriRPatel/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -288,4 +289,12 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/YatriRPatel/DSA-Java/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/YatriRPatel/DSA-Java/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
