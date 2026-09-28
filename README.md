@@ -248,6 +248,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0155-min-stack](https://github.com/YatriRPatel/DSA-Java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/YatriRPatel/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/YatriRPatel/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/YatriRPatel/DSA-Java/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/YatriRPatel/DSA-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Data Stream
@@ -291,6 +292,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0707-design-linked-list) |
 ## Backtracking
 |  |
 | ------- |
