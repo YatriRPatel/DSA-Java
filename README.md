@@ -292,6 +292,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0707-design-linked-list) |
 ## Backtracking
 |  |
