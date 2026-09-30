@@ -97,6 +97,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YatriRPatel/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0142-linked-list-cycle-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/YatriRPatel/DSA-Java/tree/master/0496-next-greater-element-i) |
@@ -136,6 +137,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0005-longest-palindromic-substring](https://github.com/YatriRPatel/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/YatriRPatel/DSA-Java/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0344-reverse-string) |
@@ -294,6 +296,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0328-odd-even-linked-list) |
@@ -307,4 +310,8 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/YatriRPatel/DSA-Java/tree/master/0078-subsets) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
