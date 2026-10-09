@@ -56,6 +56,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/YatriRPatel/DSA-Java/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -113,6 +114,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
@@ -304,6 +306,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/YatriRPatel/DSA-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/YatriRPatel/DSA-Java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0061-rotate-list) |
@@ -328,4 +331,12 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
