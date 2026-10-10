@@ -116,6 +116,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -141,6 +142,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0061-rotate-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/YatriRPatel/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0234-palindrome-linked-list) |
@@ -209,6 +211,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0148-sort-list) |
 | [1552-magnetic-force-between-two-balls](https://github.com/YatriRPatel/DSA-Java/tree/master/1552-magnetic-force-between-two-balls) |
 ## Stack
 |  |
@@ -312,6 +315,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0061-rotate-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0234-palindrome-linked-list) |
@@ -335,6 +339,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
