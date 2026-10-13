@@ -141,6 +141,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/YatriRPatel/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0143-reorder-list) |
@@ -319,6 +320,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0061-rotate-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0143-reorder-list) |
