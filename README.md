@@ -32,6 +32,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0875-koko-eating-bananas](https://github.com/YatriRPatel/DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YatriRPatel/DSA-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/1019-next-greater-node-in-linked-list) |
 | [1314-matrix-block-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/1314-matrix-block-sum) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/YatriRPatel/DSA-Java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YatriRPatel/DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -245,6 +246,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0856-score-of-parentheses](https://github.com/YatriRPatel/DSA-Java/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/YatriRPatel/DSA-Java/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YatriRPatel/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YatriRPatel/DSA-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/YatriRPatel/DSA-Java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -263,6 +265,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0503-next-greater-element-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/YatriRPatel/DSA-Java/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/YatriRPatel/DSA-Java/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YatriRPatel/DSA-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
@@ -337,6 +340,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0445-add-two-numbers-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
 |  |
