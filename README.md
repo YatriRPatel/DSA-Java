@@ -22,6 +22,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0209-minimum-size-subarray-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/YatriRPatel/DSA-Java/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/YatriRPatel/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/YatriRPatel/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0503-next-greater-element-ii) |
@@ -59,6 +60,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/YatriRPatel/DSA-Java/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/YatriRPatel/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0142-linked-list-cycle-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/YatriRPatel/DSA-Java/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YatriRPatel/DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/YatriRPatel/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/YatriRPatel/DSA-Java/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/YatriRPatel/DSA-Java/tree/master/0496-next-greater-element-i) |
@@ -122,6 +125,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0053-maximum-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/YatriRPatel/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -221,6 +225,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/YatriRPatel/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [1552-magnetic-force-between-two-balls](https://github.com/YatriRPatel/DSA-Java/tree/master/1552-magnetic-force-between-two-balls) |
 ## Stack
 |  |
@@ -386,4 +391,16 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YatriRPatel/DSA-Java/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YatriRPatel/DSA-Java/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YatriRPatel/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
