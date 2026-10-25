@@ -238,6 +238,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0032-longest-valid-parentheses](https://github.com/YatriRPatel/DSA-Java/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/YatriRPatel/DSA-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/YatriRPatel/DSA-Java/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YatriRPatel/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/YatriRPatel/DSA-Java/tree/master/0155-min-stack) |
@@ -394,6 +395,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Bucket Sort
 |  |
@@ -409,4 +411,12 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YatriRPatel/DSA-Java/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
