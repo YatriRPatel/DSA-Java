@@ -240,6 +240,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0085-maximal-rectangle](https://github.com/YatriRPatel/DSA-Java/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YatriRPatel/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/YatriRPatel/DSA-Java/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/YatriRPatel/DSA-Java/tree/master/0224-basic-calculator) |
@@ -396,6 +397,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Bucket Sort
 |  |
@@ -415,8 +417,10 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
