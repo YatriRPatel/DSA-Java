@@ -406,6 +406,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0145-binary-tree-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -431,6 +432,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0144-binary-tree-preorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -442,6 +444,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0144-binary-tree-preorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -452,4 +455,12 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
