@@ -467,4 +467,8 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/YatriRPatel/DSA-Java/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
