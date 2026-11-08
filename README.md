@@ -138,6 +138,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0062-unique-paths](https://github.com/YatriRPatel/DSA-Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/YatriRPatel/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/YatriRPatel/DSA-Java/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/YatriRPatel/DSA-Java/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/YatriRPatel/DSA-Java/tree/master/0509-fibonacci-number) |
@@ -405,6 +406,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0111-minimum-depth-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -435,6 +437,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0111-minimum-depth-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/YatriRPatel/DSA-Java/tree/master/0437-path-sum-iii) |
@@ -450,6 +453,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0111-minimum-depth-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/YatriRPatel/DSA-Java/tree/master/0437-path-sum-iii) |
@@ -465,6 +469,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 ## String Matching
 |  |
