@@ -113,6 +113,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0496-next-greater-element-i](https://github.com/YatriRPatel/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/YatriRPatel/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0567-permutation-in-string) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -413,6 +414,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0437-path-sum-iii](https://github.com/YatriRPatel/DSA-Java/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -443,6 +445,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0437-path-sum-iii](https://github.com/YatriRPatel/DSA-Java/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -459,6 +462,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0437-path-sum-iii](https://github.com/YatriRPatel/DSA-Java/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -466,6 +470,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0104-maximum-depth-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0112-path-sum) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
