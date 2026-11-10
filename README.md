@@ -83,6 +83,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/YatriRPatel/DSA-Java/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/YatriRPatel/DSA-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/YatriRPatel/DSA-Java/tree/master/0704-binary-search) |
@@ -378,6 +379,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/YatriRPatel/DSA-Java/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/YatriRPatel/DSA-Java/tree/master/0222-count-complete-tree-nodes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -442,6 +444,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0124-binary-tree-maximum-path-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/YatriRPatel/DSA-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/YatriRPatel/DSA-Java/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
@@ -459,6 +462,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0124-binary-tree-maximum-path-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/YatriRPatel/DSA-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/YatriRPatel/DSA-Java/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
