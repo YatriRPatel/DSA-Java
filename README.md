@@ -507,6 +507,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0577-employee-bonus](https://github.com/YatriRPatel/DSA-Java/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/YatriRPatel/DSA-Java/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/YatriRPatel/DSA-Java/tree/master/0595-big-countries) |
+| [0610-triangle-judgement](https://github.com/YatriRPatel/DSA-Java/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/YatriRPatel/DSA-Java/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/YatriRPatel/DSA-Java/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/YatriRPatel/DSA-Java/tree/master/1070-product-sales-analysis-iii) |
