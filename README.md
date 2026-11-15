@@ -419,6 +419,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0993-cousins-in-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -455,6 +456,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -477,6 +479,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -489,6 +492,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0199-binary-tree-right-side-view](https://github.com/YatriRPatel/DSA-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0993-cousins-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
