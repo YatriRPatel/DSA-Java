@@ -115,6 +115,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0560-subarray-sum-equals-k](https://github.com/YatriRPatel/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0148-sort-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/YatriRPatel/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/YatriRPatel/DSA-Java/tree/master/0451-sort-characters-by-frequency) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/YatriRPatel/DSA-Java/tree/master/1552-magnetic-force-between-two-balls) |
 ## Stack
 |  |
@@ -421,6 +423,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0993-cousins-in-binary-tree) |
 ## Bucket Sort
 |  |
@@ -459,6 +462,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -483,6 +487,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0572-subtree-of-another-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -497,6 +502,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0199-binary-tree-right-side-view](https://github.com/YatriRPatel/DSA-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0993-cousins-in-binary-tree) |
 ## DP on Trees
 |  |
