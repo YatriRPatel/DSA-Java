@@ -524,6 +524,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/YatriRPatel/DSA-Java/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/YatriRPatel/DSA-Java/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/YatriRPatel/DSA-Java/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/YatriRPatel/DSA-Java/tree/master/0196-delete-duplicate-emails) |
