@@ -116,6 +116,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0567-permutation-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/YatriRPatel/DSA-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Matrix
 |  |
 | ------- |
@@ -428,6 +429,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/YatriRPatel/DSA-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -470,6 +472,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/YatriRPatel/DSA-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -498,6 +501,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/YatriRPatel/DSA-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -514,11 +518,13 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/YatriRPatel/DSA-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/YatriRPatel/DSA-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## String Matching
 |  |
 | ------- |
@@ -575,11 +581,13 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/YatriRPatel/DSA-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/YatriRPatel/DSA-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
