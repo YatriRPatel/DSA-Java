@@ -33,6 +33,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0735-asteroid-collision](https://github.com/YatriRPatel/DSA-Java/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/YatriRPatel/DSA-Java/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/YatriRPatel/DSA-Java/tree/master/0875-koko-eating-bananas) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YatriRPatel/DSA-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/YatriRPatel/DSA-Java/tree/master/1019-next-greater-node-in-linked-list) |
@@ -119,6 +120,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0560-subarray-sum-equals-k](https://github.com/YatriRPatel/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/YatriRPatel/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/YatriRPatel/DSA-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Matrix
@@ -138,6 +140,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0148-sort-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/YatriRPatel/DSA-Java/tree/master/0347-top-k-frequent-elements) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -484,6 +487,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0637-average-of-levels-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/YatriRPatel/DSA-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -517,6 +521,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0637-average-of-levels-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/YatriRPatel/DSA-Java/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
