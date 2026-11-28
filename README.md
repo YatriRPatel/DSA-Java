@@ -16,6 +16,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0085-maximal-rectangle](https://github.com/YatriRPatel/DSA-Java/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YatriRPatel/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YatriRPatel/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/YatriRPatel/DSA-Java/tree/master/0162-find-peak-element) |
@@ -137,6 +138,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0053-maximum-subarray](https://github.com/YatriRPatel/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/YatriRPatel/DSA-Java/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YatriRPatel/DSA-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/YatriRPatel/DSA-Java/tree/master/0347-top-k-frequent-elements) |
@@ -470,6 +472,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0104-maximum-depth-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0112-path-sum) |
@@ -505,6 +508,7 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 | [0104-maximum-depth-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YatriRPatel/DSA-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/YatriRPatel/DSA-Java/tree/master/0112-path-sum) |
@@ -621,5 +625,6 @@ Java solutions for Data Structures &amp; Algorithms problems from LeetCode.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YatriRPatel/DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
